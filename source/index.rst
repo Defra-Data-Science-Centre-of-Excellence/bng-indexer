@@ -1,4 +1,4 @@
-.. PySpark Vector Files documentation master file, created by
+.. BNG Indexer documentation master file, created by
    sphinx-quickstart on Mon Jan 17 14:16:19 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
