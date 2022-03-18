@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "bng-indexer"
 version = "0.1.0"
-description = ""
+description = "Create British National Grid-based spatial indexes."
 authors = ["Dan Lewis <daniel.lewis@defra.gov.uk>", "Ed Fawcett-Taylor <ed.fawcett-taylor@defra.gov.uk>"]
 
 [tool.poetry.dependencies]
