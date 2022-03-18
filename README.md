@@ -1,5 +1,7 @@
 # BNG Indexer
 
+Create British National Grid-based spatial indexes.
+
 ## Install
 
 ```sh
