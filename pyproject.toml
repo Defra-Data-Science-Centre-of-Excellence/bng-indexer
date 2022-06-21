@@ -5,7 +5,7 @@ description = "Create British National Grid-based spatial indexes."
 authors = ["Dan Lewis <daniel.lewis@defra.gov.uk>", "Ed Fawcett-Taylor <ed.fawcett-taylor@defra.gov.uk>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7"
 Shapely = "^1.8.1"
 
 [tool.poetry.dev-dependencies]
